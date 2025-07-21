@@ -1,4 +1,4 @@
 # gitFetch
 
 
-India is great!
+Switzerland is a GEM of a country!
