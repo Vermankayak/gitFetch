@@ -1,4 +1,4 @@
 # gitFetch
 
 
-Switzerland is a GEM of a country.
+Switzerland is a GEM of a country!
